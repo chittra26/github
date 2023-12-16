@@ -1,0 +1,108 @@
+.Customerengagement {
+    letter-spacing: 3px;
+    font-size: 200%;
+    line-height: 1;
+    color: #FF8939;
+    
+
+}
+.pre{
+    font-weight: bolder;
+    font-size: larger;
+    line-height: 2;
+    margin-left: -15px;
+    width: 360px;
+    color: black;
+    width: 360px;
+}
+.button{
+    background-color: #FF8939;
+     color: white;
+      font-weight: bolder;
+       padding: 15px;
+       border: none;
+        border-radius: 30px;
+        cursor: pointer;
+}
+
+
+.footer div{
+    padding: 25px;
+  }
+  .footer div li{
+    list-style-type: none;
+    color:rgb(0, 179, 255);
+  }
+  .footer div li a{
+    color: white;
+    text-decoration: none;
+    list-style-type: none;
+    line-height:2.5;
+  }
+  .footer div form label{
+    color: white;
+  }
+  .footer div form input{
+    padding: 15px;
+    border: 1px solid rgb(0, 179, 255); 
+  }
+  .footer div form button{
+    padding: 12px;
+    background-color:rgb(0, 179, 255); 
+    border-radius: 10%;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 140%;
+    color: white;
+    margin-left: 60px;
+  }
+  .footer div img{
+    padding: 15px;
+  }
+  .footer div{
+    padding: 25px;
+  }
+  .footer div li{
+    list-style-type: none;
+    color:rgb(0, 179, 255);
+  }
+  .footer div li a{
+    color: white;
+    text-decoration: none;
+    list-style-type: none;
+    line-height:2.5;
+    margin-left: 50px;
+  }
+  .footer div form label{
+    color: white;
+    font-size: 130%;
+  }
+  .footer div form input{
+    padding: 15px;
+    background-color: #151A2C;
+    border: 1px solid gray; 
+    color: white;
+    width:300px
+  }
+  .footer div form button{
+    padding: 12px;
+    background-color:#151A2C; 
+   
+    border: none;
+    border: 2px solid grey;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 140%;
+    color: white;
+    margin-left: 60px;
+  }
+  .footer div img{
+    padding: 15px;
+  }
+  .address{
+  
+    border-bottom: 3px solid rgb(0, 179, 255);;
+  }
+  
+  
+  
